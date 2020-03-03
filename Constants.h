@@ -1,0 +1,20 @@
+//
+// Created by hugo on 03/03/2020.
+//
+
+#ifndef UNTITLED_CONSTANTS_H
+#define UNTITLED_CONSTANTS_H
+
+#define  DECALAGE  2
+#define  HAUTEUR_SAUT  2
+#define  HAUTEUR_CHUTE  1
+#define PORT  4444
+#define LARGEUR  245
+#define HAUTEUR  64
+#define NB_PIXEL (HAUTEUR * LARGEUR * 3)
+#define INTERVALLE_COLONE  45
+#define LARGEUR_COLONE 12
+#define HAUTEUR_PASSAGE 22
+#define LONGEUR_JOUEUR  8
+
+#endif //UNTITLED_CONSTANTS_H
